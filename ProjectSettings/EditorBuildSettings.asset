@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/menu.unity
+    guid: ecc8fcccb5f9dac45bc4eecb4ae59c0a
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/scene1-0.unity
+    guid: d40f8c846d98b95409ac0f154a0b1e74
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/scene1-1.unity
+    guid: a6730f939839f2c479cec76f68c4b3dc
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/scene1-2.unity
+    guid: b0de45c1e5582204fa86d2ef8185a538
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/scene1-3.unity
+    guid: 4fab502e3020d8143892c9eb3c44808d
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/scene2-0.unity
+    guid: 0dcd91bf2bc440244b02f6433ef4e07c
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/scene2-1.unity
+    guid: 7d8f48558400d094496192b6555a601c
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/scene2-2.unity
+    guid: 620addd9214cf9c4f9f0e958f5010dc3
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/scene2-3.unity
+    guid: 49866f02206f82045abb6ab35a04d8e8
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/scene3-0.unity
+    guid: c8dc6500fba6db4458f97a22094b8c27
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/scene3-1.unity
+    guid: 0f0e1c8005d534b4d91e6d6d01ec3896
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/sceneEnd-0-1.unity
+    guid: 30969b28f5024644ca7b12ebcf82c7e2
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/sceneEnd-0-2.unity
+    guid: c7b724b7497c84145ad976a13e204a37
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/sceneEnd-0-3.unity
+    guid: ab88b372283374a409d8c41fdba14479
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/sceneEnd-0-4.unity
+    guid: d7fb49c7169ffad479776aeb27cac94c
+  - enabled: 1
+    path: Assets/LaladaLD48/Scenes/menu2.unity
+    guid: 55b5c294384252241a1a3dbd648acdc8
+  m_configObjects: {}

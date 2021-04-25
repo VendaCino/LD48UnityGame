@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Blood
+  - Monster
+  - Ci
+  - Door
+  - Light
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 389011595
+    locked: 0
+  - name: mid
+    uniqueID: 2772627595
+    locked: 0
+  - name: special
+    uniqueID: 475564565
+    locked: 0
+  - name: fore
+    uniqueID: 4201830887
+    locked: 0
+  - name: ui
+    uniqueID: 2499086129
+    locked: 0
